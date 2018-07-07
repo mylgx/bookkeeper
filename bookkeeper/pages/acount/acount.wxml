@@ -1,0 +1,51 @@
+<!--pages/aount/acount.wxml-->
+
+<view class='page'>
+  <view class='sn-containor'>
+     <button class='button-contain' type='default'   bindtap='onReady'>{{check}}</button>
+     <button class='button-contain' type='default' ontap='goToAdd'>{{daily}}</button>
+  </view>
+
+  <view><button></button></view>
+
+  <view class='rect1'><button class='button-bg' type='default' ontap='goToDetail'>7.3</button>
+  <view class='rect2'>{{income}}</view>
+  <view class='rect2'>{{expend}}</view>
+  </view>
+
+  <view class='rect1'><button class='button-bg'>7.4</button>
+  <view class='rect2'>{{income}}</view>
+  <view class='rect2'>{{expend}}</view>
+  </view>
+
+  <view class='rect1'><button class='button-bg'>7.5</button>
+  <view class='rect2'>{{income}}</view>
+  <view class='rect2'>{{expend}}</view>
+  </view>
+
+  <view class='rect1'><button class='button-bg'>7.6</button>
+  <view class='rect2'>{{income}}</view>
+  <view class='rect2'>{{expend}}</view>
+  </view>
+
+  <view class='rect1'><button class='button-bg'>7.7</button>
+  <view class='rect2'>{{income}}</view>
+  <view class='rect2'>{{expend}}</view>
+  </view>
+
+  <view class='rect1'><button class='button-bg'>7.8</button>
+  <view class='rect2'>{{income}}</view>
+  <view class='rect2'>{{expend}}</view>
+  </view>
+  
+  <view class='rect1'><button class='button-bg'>7.9</button>
+  <view class='rect2'>{{income}}</view>
+  <view class='rect2'>{{expend}}</view>
+  </view>
+
+  <view class='rect1'><button class='button-bg'>7.10</button>
+  <view class='rect2'>{{income}}</view>
+  <view class='rect2'>{{expend}}</view>
+  </view>
+
+</view>

@@ -1,0 +1,17 @@
+{
+   "tabBar": {
+      "color": "#000",
+      "selectedColor": "#56abe4",
+      "backgroundColor": "#fff",
+      "borderStyle": "white",
+      "font-size": "700px",
+      "list": [
+         {
+            "pagePath": "pages/detail/detail",
+            "text": "交通",
+            "iconPath": "images/交通.png",
+            "selectedIconPath": "images/交通 (1).png"
+         }
+      ]
+   }
+}

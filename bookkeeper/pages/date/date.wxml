@@ -1,0 +1,3 @@
+<!--pages/date/date.wxml-->
+<view class='head'>{{title}}</view>
+

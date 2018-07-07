@@ -1,0 +1,3 @@
+<!--pages/detail/detail.wxml-->
+<text style='text-align:center'>细目表</text>
+<button type='default' ontap='onClick'>交通</button>

@@ -1,0 +1,9 @@
+{
+   "window": {
+      "backgroundTextStyle": "light",
+      "navigationBarBackgroundColor": "#32295e",
+      "navigationBarTitleText": "贴心小账本",
+      "navigationBarTextStyle": "white",
+      "enablePullDownRefresh": true
+   }
+}

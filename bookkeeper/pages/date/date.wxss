@@ -1,0 +1,10 @@
+/* pages/date/date.wxss */
+.head{
+   height: 80rpx;
+   width: 80%;
+   display: flex;
+   justify-content: center;
+   background-color: lightslategrey;
+   margin: 10rpx;
+   text-align: center;
+}

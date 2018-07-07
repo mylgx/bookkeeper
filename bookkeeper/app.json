@@ -1,0 +1,48 @@
+{
+   "pages": [
+      "pages/index/index",
+      "pages/acount/acount",
+      "pages/logs/logs",
+      "pages/my/my",
+      "pages/date/date",
+      "pages/detail/detail",
+      "pages/acount/ii/ii",
+      "pages/about/about",
+      "pages/chart/chart"
+   ],
+   "window": {
+      "backgroundTextStyle": "light",
+      "navigationBarBackgroundColor": "#32295e",
+      "navigationBarTitleText": "贴心小账本",
+      "navigationBarTextStyle": "white",
+      "enablePullDownRefresh": true
+   },
+   "tabBar": {
+      "color": "#000",
+      "selectedColor": "#56abe4",
+      "backgroundColor": "#fff",
+      "borderStyle": "white",
+      "font-size": "700px",
+      "list": [
+         {
+            "pagePath": "pages/index/index",
+            "text": "统计",
+            "iconPath": "images/统计.png",
+            "selectedIconPath": "images/统计 (1).png"
+         },
+         {
+            "pagePath": "pages/acount/acount",
+            "text": "记账",
+            "iconPath": "images/加.png",
+            "selectedIconPath": "images/加 (select).png"
+         },
+         {
+            "pagePath": "pages/my/my",
+            "text": "我的",
+            "iconPath": "images/我的.png",
+            "selectedIconPath": "images/我的 （select）.png"
+         }
+      ]
+   },
+   "debug": true
+}

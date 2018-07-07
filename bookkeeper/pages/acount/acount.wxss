@@ -1,0 +1,42 @@
+/* pages/aount/acount.wxss */
+.page{
+   height:100%;
+   width: 100%;
+   overflow: hidden;
+}
+.sn-containor{
+   height: 10%;
+   width: 100%;
+   margin: 0;
+   padding: 0;
+}
+.button-contain{
+   float: right;
+   height: 10%;
+   width:20%;
+   padding: 0;
+   margin:0;
+}
+.button-bg{
+   background: #fff;
+}
+
+.rect1{
+   margin-top: 100rpx;
+ /*  display: flex;
+   justify-content: flex-start;*/
+   border:4rpx solid pink;
+   text-align: center;
+   width: 100%;
+   height: 40%;
+}
+.rect2{
+   margin-top:15rpx;
+   display: flex;
+   justify-content: flex-end;
+   border:0rpx solid pink;
+   text-align: center;
+   width: 20%;
+   height: 20%;
+}
+
